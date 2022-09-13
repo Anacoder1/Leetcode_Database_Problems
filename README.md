@@ -41,29 +41,54 @@ S. NO. | **ID** | **Question** | **Link**
 10     | 1596 | The Most Frequently Ordered Products for Each Customer | [here](https://github.com/Anacoder1/Leetcode_Database_Problems/blob/main/1596%20-%20The%20Most%20Frequently%20Ordered%20Products%20for%20Each%20Customer.md)
 11     | 1831 | Maximum Transaction Each Day | [here](https://github.com/Anacoder1/Leetcode_Database_Problems/blob/main/1831%20-%20Maximum%20Transaction%20Each%20Day.md)
 12     | 1468 | Calculate Salaries | [here](https://github.com/Anacoder1/Leetcode_Database_Problems/blob/main/1468%20-%20Calculate%20Salaries.md)
-13     | 534  | Game Play Analysis III |
-14     | 1398 | Customers Who Bought Products A and B but Not C |
-15     | 1364 | Number of Trusted Contacts of a Customer |
-16     | 1077 | Project Employees III |
-17     | 1709 | Biggest Window Between Visits |
-18     | 1715 | Count Apples and Oranges |
-19     | 1934 | Confirmation Rate |
-20     | 2041 | Accepted Candidates From the Interviews |
-21     | 1867 | Orders With Maximum Quantity Above Average |
-22     | 1613 | Find the Missing IDs |
-23     | 1440 | Evaluate Boolean Expression |
-24     | 1875 | Group Employees of the Same Salary |
-25     | 1355 | Activity Participants |
-26     | 1204 | Last Person to Fit in the Elevator |
-27     | 1112 | Highest Grade For Each Student |
-28     | 2051 | The Category of Each Member in the Store |
-29     | 1321 | Restaurant Growth |
-30     | 2020 | Number of Accounts That Did Not Stream |
-31     | 1951 | All the Pairs With the Maximum Number of Common Followers |
-32     | 608  | Tree Node |
-33     | 1532 | The Most Recent Three Orders |
-34     | 1988 | Find Cutoff Score for Each School |
-35     | 626  | Exchange Seats |
-36     | 2112 | The Airport With the Most Traffic |
-37     | 1459 | Rectangles Area |
-38     | 1164 | Product Price at a Given Date |
+13     | 534  | Game Play Analysis III | [here](https://github.com/Anacoder1/Leetcode_Database_Problems/blob/main/534%20-%20Game%20Play%20Analysis%20III.md)
+14     | 1398 | Customers Who Bought Products A and B but Not C | [here](https://github.com/Anacoder1/Leetcode_Database_Problems/blob/main/1398%20-%20Customers%20Who%20Bought%20Products%20A%20and%20B%20but%20Not%20C.md)
+15     | 1364 | Number of Trusted Contacts of a Customer | [here](https://github.com/Anacoder1/Leetcode_Database_Problems/blob/main/1364%20-%20Number%20of%20Trusted%20Contacts%20of%20a%20Customer.md)
+16     | 1077 | Project Employees III | [here](https://github.com/Anacoder1/Leetcode_Database_Problems/blob/main/1077%20-%20Project%20Employees%20III.md)
+17     | 1709 | Biggest Window Between Visits | [here](https://github.com/Anacoder1/Leetcode_Database_Problems/blob/main/1709%20-%20Biggest%20Window%20Between%20Visits.md)
+18     | 1715 | Count Apples and Oranges | [here](https://github.com/Anacoder1/Leetcode_Database_Problems/blob/main/1715%20-%20Count%20Apples%20and%20Oranges.md)
+19     | 1934 | Confirmation Rate | [here](https://github.com/Anacoder1/Leetcode_Database_Problems/blob/main/1934%20-%20Confirmation%20Rate.md)
+20     | 2041 | Accepted Candidates From the Interviews | [here](https://github.com/Anacoder1/Leetcode_Database_Problems/blob/main/2041%20-%20Accepted%20Candidates%20From%20the%20Interviews.md)
+21     | 1867 | Orders With Maximum Quantity Above Average | [here](https://github.com/Anacoder1/Leetcode_Database_Problems/blob/main/1867%20-%20Orders%20With%20Maximum%20Quantity%20Above%20Average.md)
+22     | 1613 | Find the Missing IDs | [here](https://github.com/Anacoder1/Leetcode_Database_Problems/blob/main/1613%20-%20Find%20the%20Missing%20IDs.md)
+23     | 1440 | Evaluate Boolean Expression | [here](https://github.com/Anacoder1/Leetcode_Database_Problems/blob/main/1440%20-%20Evaluate%20Boolean%20Expression.md)
+24     | 1875 | Group Employees of the Same Salary | [here](https://github.com/Anacoder1/Leetcode_Database_Problems/blob/main/1875%20-%20Group%20Employees%20of%20the%20Same%20Salary.md)
+25     | 1355 | Activity Participants | [here](https://github.com/Anacoder1/Leetcode_Database_Problems/blob/main/1355%20-%20Activity%20Participants.md)
+26     | 1204 | Last Person to Fit in the Elevator | [here](https://github.com/Anacoder1/Leetcode_Database_Problems/blob/main/1204%20-%20Last%20Person%20to%20Fit%20in%20the%20Elevator.md)
+27     | 1112 | Highest Grade For Each Student | [here](https://github.com/Anacoder1/Leetcode_Database_Problems/blob/main/1112%20-%20Highest%20Grade%20For%20Each%20Student.md)
+28     | 2051 | The Category of Each Member in the Store | [here](https://github.com/Anacoder1/Leetcode_Database_Problems/blob/main/2051%20-%20The%20Category%20of%20Each%20Member%20in%20the%20Store.md)
+29     | 1321 | Restaurant Growth | [here](https://github.com/Anacoder1/Leetcode_Database_Problems/blob/main/1321%20-%20Restaurant%20Growth.md)
+30     | 2020 | Number of Accounts That Did Not Stream | [here](https://github.com/Anacoder1/Leetcode_Database_Problems/blob/main/2020%20-%20Number%20of%20Accounts%20That%20Did%20Not%20Stream.md)
+31     | 1951 | All the Pairs With the Maximum Number of Common Followers | [here](https://github.com/Anacoder1/Leetcode_Database_Problems/blob/main/1951%20-%20All%20the%20Pairs%20With%20the%20Maximum%20Number%20of%20Common%20Followers.md)
+32     | 608  | Tree Node | [here](https://github.com/Anacoder1/Leetcode_Database_Problems/blob/main/608%20-%20Tree%20Node.md)
+33     | 1532 | The Most Recent Three Orders | [here](https://github.com/Anacoder1/Leetcode_Database_Problems/blob/main/1532%20-%20The%20Most%20Recent%20Three%20Orders.md)
+34     | 1988 | Find Cutoff Score for Each School | [here](https://github.com/Anacoder1/Leetcode_Database_Problems/blob/main/1988%20-%20Find%20Cutoff%20Score%20for%20Each%20School.md)
+35     | 626  | Exchange Seats | [here](https://github.com/Anacoder1/Leetcode_Database_Problems/blob/main/626%20-%20Exchange%20Seats.md)
+36     | 2112 | The Airport With the Most Traffic | [here](https://github.com/Anacoder1/Leetcode_Database_Problems/blob/main/2112%20-%20The%20Airport%20With%20the%20Most%20Traffic.md)
+37     | 1459 | Rectangles Area | [here](https://github.com/Anacoder1/Leetcode_Database_Problems/blob/main/1459%20-%20Rectangles%20Area.md)
+38     | 1164 | Product Price at a Given Date | [here](https://github.com/Anacoder1/Leetcode_Database_Problems/blob/main/1164%20-%20Product%20Price%20at%20a%20Given%20Date.md)
+39     | 1126 | Active Businesses |
+40     | 1549 | The Most Recent Orders for Each Product |
+41     | 1264 | Page Recommendations |
+42     | 1747 | Leetflex Banned Accounts |
+43     | 1193 | Monthly Transactions I |
+44     | 1045 | Customers Who Bought All Products |
+45     | 570  | Managers with at Least 5 Direct Reports |
+46     | 1907 | Count Salary Categories |
+47     | 1158 | Market Analysis I |
+48     | 2175 | The Change in Global Rankings |
+49     | 1811 | Find Interview Candidates |
+50     | 1174 | Immediate Food Delivery II |
+51     | 2159 | Order Two Columns Independently |
+52     | 612  | Shortest Distance in a Plane |
+53     | 602  | Friend Requests II: Who Has the Most Friends |
+54     | 1949 | Strong Friendship |
+55     | 574  | Winning Candidate |
+56     | 1341 | Movie Rating |
+57     | 178  | Rank Scores |
+58     | 1501 | Countries You Can Safely Invest In |
+59     | 580  | Count Student Number in Departments |
+60     | 1212 | Team Scores in Football Tournament |
+61     | 1841 | League Statistics |
+62     | 585  | Investments in 2016 |
+63     | 1555 | Bank Account Summary |
